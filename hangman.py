@@ -65,7 +65,7 @@ while True:
         gameWord = gameWord.upper()
     # falls die liste Leer ist, weißt das spiel darauf hin
     except ValueError:
-        print("Ich habe keine neuen Wörter mehr. Wir können mit den alten aber nochmal spielen")
+        print("Es gibt keine neuen Wörter mehr. Wir können mit den alten aber nochmal spielen")
         if wordGameRepeat() == "No":
             break
         else:
