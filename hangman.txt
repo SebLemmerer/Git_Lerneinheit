@@ -17,3 +17,5 @@ Kaefer
 Kiefer
 Blume
 Haus
+Fliege
+Tiger
