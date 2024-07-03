@@ -44,7 +44,7 @@ def wordGameRepeat():
 
 # Schleife die das gesamte Spiel wiederholt
 while True:
-
+    print("lass uns spielen!")
     # initialisieren des Spiels Auswählen des Worts und Erstellen der nötigen Variablen
     # um ein Spielen ohne Wiederholten wörtern zu gewährleisten wird die temporäre txt Datei in jeder Runde abgeändert,
     # sodass nur nicht verwendete Wörter gespielt werden
@@ -157,7 +157,7 @@ while True:
         writeTxt.close()
         break
 
-print("lass uns spielen!")
+
 
 
 
